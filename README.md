@@ -1,1 +1,1 @@
-# Zomato_Netflix_Projects
+# Netflix_Projects
